@@ -46,6 +46,7 @@ I like building software, managing home infrastructure, and understanding how co
          .:ooooooolc:. .ooooooooooo'
            .':loooooo;  ,oooooooooc
                ..';::c'  .;loooo:'
+```
 
 ### 🧠 Current Interests
 - Local networking & self-hosted infrastructure
