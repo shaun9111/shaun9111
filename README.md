@@ -16,7 +16,7 @@ I like building software, managing home infrastructure, and understanding how co
 ### 🛠 What I work with
 - **OS / Env:** Ubuntu Linux, Bash, Python Virtual Environments
 - **Languages:** Python, SQL, C# / C++
-- **Networking & Server:** Pi-hole on Linux VM, ZimaBoard, TP-Link Archer AX80 router
+- **Networking & Server:** Pi-hole on Linux VM, ZimaBoard
 
 ### 🖥️ Hardware Setup
 <img width="863" height="506" alt="Screenshot From 2026-09-06 23-44-45" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef" />
