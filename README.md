@@ -34,4 +34,18 @@ I like building software, managing home infrastructure, and understanding how co
 - Physics, space, and cosmic paradoxes
 - Wrenching on real-world mechanics (cars, hardware, tree care)
 
+### 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/pihole/15A9E1" alt="Pi-hole" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/amd/ED1C24" alt="AMD" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/asus/00539B" alt="ASUS" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/tplink/00A9E0" alt="TP-Link" width="45" height="45"/>
+</p>
+
 > *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."* — Colossians 3:23
