@@ -20,7 +20,7 @@ I like building software, managing home infrastructure, and understanding how co
 ### 🛠 What I work with
 - **OS / Env:** Ubuntu Linux, Bash, Python Virtual Environments
 - **Languages:** Python, SQL, C# / C++
-- **Networking & Server:** Pi-hole on Linux VM, ZimaBoard, TP-Link Archer AX80 router
+- **Networking & Server:** Pi-hole on Linux VM, ZimaBoard
 
 ### 🖥️ Hardware Setup
 - **CPU:** AMD Ryzen 9
