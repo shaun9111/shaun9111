@@ -43,4 +43,4 @@ I like building software, managing home infrastructure, and understanding how co
   <img src="https://cdn.simpleicons.org/tplink/00A9E0" alt="TP-Link" width="45" height="45"/>
 </p>
 
-> *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."* — Colossians 3:23
+> *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."* — Colossians 3:23.
