@@ -13,12 +13,6 @@ I like building software, managing home infrastructure, and understanding how co
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![AMD](https://img.shields.io/badge/Hardware-AMD_Ryzen_9-ED1C24?style=flat-square&logo=amd&logoColor=white)
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaun9111&show_icons=true&theme=dark" alt="Shaun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun9111&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
 ### 🛠 What I work with
 - **OS / Env:** Ubuntu Linux, Bash, Python Virtual Environments
 - **Languages:** Python, SQL, C# / C++
