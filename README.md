@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Shaun 👋
 
-<!--
-**shaun9111/shaun9111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building software, managing home infrastructure, and understanding how complex systems work under the hood.
 
-Here are some ideas to get you started:
+### 🛠 What I work with
+- **OS / Env:** Linux (Ubuntu), Bash, Virtual Environments
+- **Languages:** Python, SQL, C# / C++
+- **Networking & Hardware:** Pi-hole, local server infrastructure, custom desktop rigs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Interests
+- Local networking & self-hosted infrastructure
+- Python scripting & automation
+- Physics, space, and cosmic paradoxes
+- Wrenching on real-world mechanics (cars, hardware, tree care)
+
+> *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."* — Colossians 3:23
