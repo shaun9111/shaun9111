@@ -1,5 +1,7 @@
 # Hey, I'm Shaun 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=shaun9111&color=blue&style=flat-square)
+
 I like building software, managing home infrastructure, and understanding how complex systems work under the hood.
 
 ### 🛠 What I work with
