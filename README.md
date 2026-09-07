@@ -3,9 +3,15 @@
 I like building software, managing home infrastructure, and understanding how complex systems work under the hood.
 
 ### 🛠 What I work with
-- **OS / Env:** Linux (Ubuntu), Bash, Virtual Environments
+- **OS / Env:** Ubuntu Linux, Bash, Python Virtual Environments
 - **Languages:** Python, SQL, C# / C++
-- **Networking & Hardware:** Pi-hole, local server infrastructure, custom desktop rigs
+- **Networking & Server:** Pi-hole on Linux VM, ZimaBoard, TP-Link Archer AX80 router
+
+### 🖥️ Hardware Setup
+- **CPU:** AMD Ryzen 9
+- **GPU:** AMD Radeon RX 6800 XT
+- **Motherboard:** ASUS PRIME B550M-A
+- **Display:** LG UltraGear
 
 ### 🧠 Current Interests
 - Local networking & self-hosted infrastructure
