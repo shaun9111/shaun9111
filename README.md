@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaun9111&color=blue&style=flat-square)
 
+Happily married with one awesome son. 👨‍👩‍👦
+
 I like building software, managing home infrastructure, and understanding how complex systems work under the hood.
 
 ### 🛠️ Tech Stack & Environment
