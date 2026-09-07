@@ -25,34 +25,8 @@ I like building software, managing home infrastructure, and understanding how co
 - **Networking & Server:** Pi-hole on Linux VM, ZimaBoard, TP-Link Archer AX80 router
 
 ### 🖥️ Hardware Setup
-```text
-<pre>
-<font color="#FF0000">                        ....              </font><b><font color="#FF0000">shaun</font>@<font color="#FF0000">Ubuntu-PC</font></b>
-<font color="#FF0000">              .',:clooo:  .:looooo:.      </font>---------------
-<font color="#FF0000">            .;looooooooc  .oooooooooo'    </font><b><font color="#FF0000">OS:</font></b> Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
-<font color="#FF0000">        .;looooool:,''.  :ooooooooooc     </font><b><font color="#FF0000">Kernel:</font></b> Linux 7.0.0-31-generic
-<font color="#FF0000">       ;looool;.          'oooooooooo,    </font><b><font color="#FF0000">Uptime:</font></b> 3 hours, 24 mins
-<font color="#FF0000">      ;clool'              .cooooooc. ,,  </font><b><font color="#FF0000">Packages:</font></b> 3290 (dpkg), 7 (flatpak), 15 (snap)
-<font color="#FF0000">         ...                ......  .:oo, </font><b><font color="#FF0000">Shell:</font></b> bash 5.3.9
-<font color="#FF0000">  .;clol:,.                        .loooo'</font><b><font color="#FF0000">Display (LG ULTRAGEAR):</font></b> 2560x1440 in 27", 144 Hz [External]
-<font color="#FF0000"> :ooooooooo,                        'ooool</font><b><font color="#FF0000">DE:</font></b> GNOME 50.1
-<font color="#FF0000">'ooooooooooo.                        loooo.</font><b><font color="#FF0000">WM:</font></b> Mutter (Wayland)
-<font color="#FF0000">'ooooooooool                         coooo.</font><b><font color="#FF0000">WM Theme:</font></b> Yaru-blue-dark
-<font color="#FF0000"> ,loooooooc.                        .loooo.</font><b><font color="#FF0000">Theme:</font></b> Yaru-blue-dark [GTK2/3/4]
-<font color="#FF0000">   .,;;;'.                          ;ooooc</font><b><font color="#FF0000">Icons:</font></b> Yaru-blue-dark [GTK2/3/4]
-<font color="#FF0000">        ...                         ,ooool.</font><b><font color="#FF0000">Font:</font></b> Ubuntu Sans (11pt) [GTK2/3/4]
-<font color="#FF0000">    .cooooc.              ..',,'.  .cooo. </font><b><font color="#FF0000">Cursor:</font></b> Yaru (24px)
-<font color="#FF0000">      ;ooooo:.            ;oooooooc.  :l. </font><b><font color="#FF0000">Terminal:</font></b> Ptyxis 50.1
-<font color="#FF0000">       .coooooc,..      coooooooooo.      </font><b><font color="#FF0000">Terminal Font:</font></b> Ubuntu Sans Mono (11pt)
-<font color="#FF0000">         .:ooooooolc:. .ooooooooooo'      </font><b><font color="#FF0000">CPU:</font></b> AMD Ryzen 9 5900X (24) @ 4.95 GHz
-<font color="#FF0000">           .':loooooo;  ,oooooooooc       </font><b><font color="#FF0000">GPU:</font></b> AMD Radeon RX 6800 XT [Discrete]
-<font color="#FF0000">               ..';::c'  .;loooo:'        </font><b><font color="#FF0000">Memory:</font></b> 5.41 GiB / 30.24 GiB (<font color="#4EAA25">18%</font>)
-                                          <b><font color="#FF0000">Swap:</font></b> 1.45 GiB / 8.00 GiB (<font color="#4EAA25">18%</font>)
-                                          <b><font color="#FF0000">Disk (/):</font></b> 390.30 GiB / 456.89 GiB (<font color="#FF0000">85%</font>) - ext4
-                                          <b><font color="#FF0000">Disk (/mnt/games):</font></b> 254.02 GiB / 457.38 GiB (<font color="#4EAA25">56%</font>) - ext4
-                                          <b><font color="#FF0000">Locale:</font></b> en_US.UTF-8
-</pre>
-```
+<img width="865" height="514" alt="Screenshot From 2026-09-06 23-43-31" src="https://github.com/user-attachments/assets/3874ccfd-d33b-468e-acd1-f4530c9ab0cf" />
+
 
 ### 🧠 Current Interests
 - Local networking & self-hosted infrastructure
