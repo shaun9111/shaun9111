@@ -25,7 +25,8 @@ I like building software, managing home infrastructure, and understanding how co
 - **Networking & Server:** Pi-hole on Linux VM, ZimaBoard, TP-Link Archer AX80 router
 
 ### 🖥️ Hardware Setup
-<img width="865" height="514" alt="Screenshot From 2026-09-06 23-43-31" src="https://github.com/user-attachments/assets/3874ccfd-d33b-468e-acd1-f4530c9ab0cf" />
+<img width="863" height="506" alt="Screenshot From 2026-09-06 23-44-45" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef" />
+
 
 
 ### 🧠 Current Interests
