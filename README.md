@@ -31,6 +31,12 @@ I'm a hands-on tech enthusiast who enjoys the space where software meets hardwar
 - 🔍 Exploring systems, hardware, mechanics, physics, and space
 - 🧠 Guiding principle: **understand how it works**
 
+<div align="center">
+
+<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
+
+</div>
+
 ## Current focus
 
 <table>
@@ -71,6 +77,12 @@ I'm a hands-on tech enthusiast who enjoys the space where software meets hardwar
 </tr>
 </table>
 
+<div align="center">
+
+<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
+
+</div>
+
 ## Tech I work with
 
 <p>
@@ -83,6 +95,12 @@ I'm a hands-on tech enthusiast who enjoys the space where software meets hardwar
   <img src="https://img.shields.io/badge/Self--hosted-Services-0284C7?style=flat-square&logo=serverfault&logoColor=white" alt="Self-hosted services">
   <img src="https://img.shields.io/badge/Networking-Experiments-0891B2?style=flat-square&logo=cisco&logoColor=white" alt="Networking">
 </p>
+
+<div align="center">
+
+<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
+
+</div>
 
 ## Homelab, in one glance
 
@@ -102,6 +120,12 @@ Router · DHCP · Network
 <div align="center">
 
 <img width="85%" alt="Shaun's hardware setup" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef">
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
 
 </div>
 
