@@ -1,46 +1,116 @@
+<div align="center">
+
 # Hey, I'm Shaun 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=shaun9111&color=blue&style=flat-square)
+### Builder • Homelab Tinkerer • Linux User • Curious About How Things Work
 
-Happily married with one awesome son. 👨‍👩‍👦
+<img src="https://komarev.com/ghpvc/?username=shaun9111&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
-I like building software, managing home infrastructure, and understanding how complex systems work under the hood.
+</div>
 
-### 🛠️ Tech Stack & Environment
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![AMD](https://img.shields.io/badge/Hardware-AMD_Ryzen_9-ED1C24?style=flat-square&logo=amd&logoColor=white)
+---
 
-### 🛠 What I work with
-- **OS / Env:** Ubuntu Linux, Bash, Python Virtual Environments
-- **Languages:** Python, SQL, C# / C++
-- **Networking & Server:** Pi-hole on Linux VM, ZimaBoard
+## 👨‍💻 About Me
 
-### 🖥️ Hardware Setup
-<img width="863" height="506" alt="Screenshot From 2026-09-06 23-44-45" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef" />
+I'm a hands-on tech enthusiast who enjoys building software, running home infrastructure, troubleshooting networks, and digging into how complex systems behave under the hood.
 
+When I'm not working on code or servers, I'm usually learning something new about hardware, mechanics, physics, space, or whatever problem has caught my attention next.
 
+- 🐧 Daily environment: **Ubuntu Linux**
+- 🧪 I enjoy experimenting with **self-hosted services and homelab infrastructure**
+- ⚙️ I like solving problems with **Python, Bash, C#, C++, and SQL**
+- 🌐 Interested in **networking, DNS, Active Directory, Pi-hole, virtualization, and automation**
+- 🔧 Equally comfortable debugging a computer, a network, or something mechanical
+- 👨‍👩‍👦 Happily married and proud dad to one awesome son
 
-### 🧠 Current Interests
-- Local networking & self-hosted infrastructure
-- Python scripting & automation
-- Physics, space, and cosmic paradoxes
-- Wrenching on real-world mechanics (cars, hardware, tree care)
+---
 
-### 🧰 Tools & Technologies
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/pihole/15A9E1" alt="Pi-hole" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/amd/ED1C24" alt="AMD" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/asus/00539B" alt="ASUS" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.simpleicons.org/tplink/00A9E0" alt="TP-Link" width="45" height="45"/>
+## 🧰 Tech I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,python,bash,cpp,cs&perline=6" alt="Core technologies" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pi--hole-DNS%20%26%20Network%20Filtering-96060C?style=for-the-badge&logo=pihole&logoColor=white" />
+<img src="https://img.shields.io/badge/HomeLab-Self--Hosted%20Infrastructure-1f6feb?style=for-the-badge&logo=serverfault&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD-Ryzen%209-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/TP--Link-Networking-4ACBD6?style=for-the-badge&logo=tp-link&logoColor=white" />
+
+</div>
+
+### What that looks like in practice
+
+```text
+Linux / Ubuntu
+├── Python scripting & automation
+├── Bash / shell workflows
+├── C# / C++ projects
+├── SQL & data work
+│
+Home Infrastructure
+├── Pi-hole / DNS
+├── Samba Active Directory
+├── Virtual machines & containers
+├── ZimaBoard / self-hosted services
+└── Network troubleshooting
+```
+
+---
+
+## 🧠 Current Rabbit Holes
+
+```yaml
+homelab:
+  - self-hosting
+  - DNS and network architecture
+  - Active Directory
+  - automation
+
+software:
+  - Python
+  - systems programming
+  - debugging
+
+curiosity:
+  - physics
+  - space
+  - cosmic paradoxes
+  - real-world mechanics
+```
+
+---
+
+## 🖥️ My Setup
+
+<p align="center">
+  <img width="863" alt="Shaun's hardware setup" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef" />
 </p>
 
-> *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."* — Colossians 3:23.
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shaun9111&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Shaun's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun9111&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaun9111&hide_border=true&theme=transparent" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build it. Break it. Understand it. Improve it.
+
+> *“Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.”*  
+> — **Colossians 3:23**
+
+</div>
