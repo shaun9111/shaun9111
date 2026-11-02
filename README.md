@@ -40,21 +40,23 @@ When I'm not working on code or servers, I'm usually learning something new abou
 
 </div>
 
-### What that looks like in practice
+### ⚡ What That Looks Like in Practice
 
 ```text
 Linux / Ubuntu
-├── Python scripting & automation
-├── Bash / shell workflows
-├── C# / C++ projects
-├── SQL & data work
 │
+├── 🐍 Python scripting & automation
+├── 💻 Bash / shell workflows
+├── ⚙️ C# / C++ projects
+└── 🗄️ SQL & data work
+
 Home Infrastructure
-├── Pi-hole / DNS
-├── Samba Active Directory
-├── Virtual machines & containers
-├── ZimaBoard / self-hosted services
-└── Network troubleshooting
+│
+├── 🛡️ Pi-hole / DNS
+├── 🏢 Samba Active Directory
+├── 📦 Virtual machines & containers
+├── 🖥️ ZimaBoard / self-hosted services
+└── 🌐 Network troubleshooting
 ```
 
 ---
@@ -84,23 +86,38 @@ curiosity:
 
 ## 🖥️ My Setup
 
-<p align="center">
-  <img width="863" alt="Shaun's hardware setup" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef" />
-</p>
+<div align="center">
+
+<img width="863" alt="Shaun's hardware setup" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef" />
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 🔥 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shaun9111&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Shaun's GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=shaun9111&theme=transparent&hide_border=true" alt="Shaun's GitHub Streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun9111&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</div>
 
-<br>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaun9111&hide_border=true&theme=transparent" alt="GitHub streak" />
+## 🚀 What I'm Into
+
+<div align="center">
+
+**🐧 Linux** &nbsp;•&nbsp;
+**🏠 Homelabbing** &nbsp;•&nbsp;
+**🌐 Networking** &nbsp;•&nbsp;
+**🔐 DNS & Security** &nbsp;•&nbsp;
+**🐍 Python**
+
+**⚙️ Automation** &nbsp;•&nbsp;
+**🔧 Mechanics** &nbsp;•&nbsp;
+**🌌 Space & Physics** &nbsp;•&nbsp;
+**🧠 Learning How Things Work**
 
 </div>
 
@@ -108,9 +125,17 @@ curiosity:
 
 <div align="center">
 
-### Build it. Break it. Understand it. Improve it.
+### ⚡ Build it. Break it. Understand it. Improve it.
 
-> *“Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.”*  
-> — **Colossians 3:23**
+<br>
+
+> *“Whatever you do, work at it with all your heart,*  
+> *as working for the Lord, not for human masters.”*
+
+### — Colossians 3:23
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shaun9111&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
