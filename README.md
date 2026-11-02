@@ -149,7 +149,7 @@ Router · DHCP · Network
 
 <br>
 
-*“Whatever you do, work at it with all your heart.”*  
-— Colossians 3:23
+*“Whatever you do, work heartily, as for the Lord and not for men.”*  
+— Colossians 3:23 (ESV)
 
 </div>
