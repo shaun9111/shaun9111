@@ -97,6 +97,12 @@ Router · DHCP · Network
    └── ZimaOS        Containers & self-hosted apps
 ```
 
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/shaun9111/shaun9111/main/assets/shaun-homelab-map.jpg" alt="Shaun's neon homelab architecture">
+
+</div>
+
 > Self-hosted · private · experimental · always evolving
 
 ## Hardware setup
