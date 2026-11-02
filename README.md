@@ -99,7 +99,7 @@ Router · DHCP · Network
 
 <div align="center">
 
-<img width="100%" src="./assets/shaun-homelab-map-v2.jpg" alt="Shaun's neon homelab architecture">
+<img width="100%" src="./assets/shaun-homelab-map-v3.jpg" alt="Shaun's neon homelab architecture">
 
 </div>
 
