@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/shaun9111/shaun9111/main/assets/shaun-neon-banner.jpg" alt="Shaun's neon homelab banner">
+<img width="100%" src="./assets/shaun-neon-banner.jpg" alt="Shaun's neon homelab banner">
 
 # Shaun
 
@@ -99,7 +99,7 @@ Router · DHCP · Network
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/shaun9111/shaun9111/main/assets/shaun-homelab-map.jpg" alt="Shaun's neon homelab architecture">
+<img width="100%" src="./assets/shaun-homelab-map.jpg" alt="Shaun's neon homelab architecture">
 
 </div>
 
@@ -127,7 +127,7 @@ Router · DHCP · Network
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/shaun9111/shaun9111/main/assets/shaun-neon-footer.jpg" alt="Neon mountain footer">
+<img width="100%" src="./assets/shaun-neon-footer.jpg" alt="Neon mountain footer">
 
 ### Build it. Break it. Understand it. Improve it.
 
