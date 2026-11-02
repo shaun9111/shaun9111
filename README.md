@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/shaun9111/shaun9111/main/assets/shaun-neon-banner.jpg" alt="Shaun's neon homelab banner">
+
 # Shaun
 
 ### Homelab tinkerer · Linux enthusiast · Systems curious
@@ -118,6 +120,8 @@ Router · DHCP · Network
 ---
 
 <div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/shaun9111/shaun9111/main/assets/shaun-neon-footer.jpg" alt="Neon mountain footer">
 
 ### Build it. Break it. Understand it. Improve it.
 
