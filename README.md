@@ -111,7 +111,7 @@ Router · DHCP · Network
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=shaun9111&show_icons=true&hide_border=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=64748b" alt="Shaun's GitHub stats">
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaun9111&theme=github_dark" alt="Shaun's GitHub contribution summary">
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaun9111&hide_border=true&theme=transparent&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="Shaun's GitHub streak">
 
