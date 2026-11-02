@@ -6,8 +6,6 @@
 
 <img width="100%" src="./assets/shaun-neon-banner.jpg" alt="Shaun's neon homelab banner">
 
-# Shaun
-
 ### Homelab tinkerer · Linux enthusiast · Systems curious
 
 I build, automate, troubleshoot, and learn by taking things apart.
