@@ -74,7 +74,7 @@ I'm a hands-on tech enthusiast who enjoys building software, running home infras
 ## 🗄️ HOMELAB & NETWORK
 
 🍓 **Pi-hole** — DNS filtering  
-🪟 **Samba AD** — directory services  
+🪟 **Samba AD / DNS** — directory services & local DNS  
 🐳 **Containers & VMs** — isolated services  
 🏠 **Self-hosting** — apps and infrastructure  
 🌐 **Networking** — DHCP, DNS & troubleshooting  
@@ -85,7 +85,13 @@ I'm a hands-on tech enthusiast who enjoys building software, running home infras
 </table>
 
 <div align="center">
-<img width="96%" src="./assets/shaun-homelab-map-v3.jpg" alt="Shaun's homelab network map">
+
+### 🌐 HOMELAB NETWORK MAP
+
+<img width="96%" src="./assets/a_detailed_neon_cyber_tech_infographic_a_glowing.png" alt="Shaun's graphical homelab network map showing Internet, Pi-hole, Samba Active Directory DNS and LAN homelab services">
+
+<sub>DNS path: Internet / upstream DNS → Pi-hole filtering → Samba Active Directory / DNS → LAN & homelab clients</sub>
+
 </div>
 
 <img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
