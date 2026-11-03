@@ -1,155 +1,184 @@
-<!--
-  Hi there! I'm Shaun — welcome to my profile.
--->
+<!-- Shaun's GitHub profile -->
 
 <div align="center">
 
-<img width="100%" src="./assets/shaun-neon-banner.jpg" alt="Shaun's neon homelab banner">
+<img width="100%" src="./assets/shaun-neon-banner.jpg" alt="Shaun — Homelab, Linux, Networking, Automation and DIY">
 
-### Homelab tinkerer · Linux enthusiast · Systems curious
+### `HOMELAB` · `LINUX` · `NETWORKING` · `AUTOMATION` · `DIY`
 
-I build, automate, troubleshoot, and learn by taking things apart.
+**I build it, break it, troubleshoot it, and learn how it works.**
 
-<p>
-  <a href="https://github.com/shaun9111">
-    <img src="https://img.shields.io/badge/GitHub-shaun9111-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shaun9111&style=flat-square&color=0ea5e9&label=profile+views" alt="Profile views">
-</p>
+<a href="https://github.com/shaun9111"><img src="https://img.shields.io/badge/GitHub-shaun9111-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=shaun9111&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
-
----
-
-## About
-
-I'm a hands-on tech enthusiast who enjoys the space where software meets hardware. Most of my learning happens through practical projects: running services at home, automating repetitive work, debugging networks, and understanding what is happening under the hood.
-
-- 🏠 Building and evolving a self-hosted homelab
-- 🐧 Working with Linux, networking, DNS, and Active Directory
-- ⚙️ Automating useful things with Python and Bash
-- 🔍 Exploring systems, hardware, mechanics, physics, and space
-- 🧠 Guiding principle: **understand how it works**
-
-<div align="center">
 
 <img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
 
-</div>
+<table>
+<tr>
+<td width="62%" valign="top">
 
-## Current focus
+## 👤 ABOUT ME
+
+I'm a hands-on tech enthusiast who enjoys building software, running home infrastructure, troubleshooting networks, and digging into how complex systems work under the hood.
+
+🐧 **Daily environment:** Ubuntu Linux  
+🖥️ **Homelab:** ZimaOS, containers & self-hosted services  
+🌐 **Networking:** DNS, Pi-hole, Samba Active Directory  
+💻 **Code:** Python, Bash, C#, C++ & SQL  
+🔧 **Mindset:** Solve it, understand it, improve it  
+🚀 **Curiosity:** Hardware, mechanics, physics & space
+
+</td>
+<td width="38%" valign="top">
+
+## 🖥️ MY SETUP
+
+⚡ **AMD Ryzen 9**  
+🧠 **32 GB DDR4 RAM**  
+🎮 **Radeon RX 6800 XT**  
+🔩 **ASUS Prime B550M-A**  
+📦 **NZXT H5 Flow**  
+🐧 **Ubuntu Linux**  
+🏠 **ZimaOS / Homelab**  
+📡 **TP-Link Networking**
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Homelab
+## 🧊 TECH STACK
 
-- Linux infrastructure
-- Pi-hole & DNS
-- Samba / Active Directory
-- Containers & VMs
-- Network troubleshooting
+<div align="center">
 
-</td>
-<td width="33%" valign="top">
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,debian,python,bash,cpp,cs,mysql&theme=dark&perline=4" alt="Ubuntu, Linux, Debian, Python, Bash, C++, C# and SQL">
 
-### Development
+<br><br>
 
-- Python automation
-- Bash scripting
-- C# & C++
-- SQL
-- Systems thinking
+<img src="https://img.shields.io/badge/Pi--hole-DNS%20Filtering-111827?style=for-the-badge&logo=pihole&logoColor=22d3ee" alt="Pi-hole">
+<img src="https://img.shields.io/badge/Samba-Active%20Directory-111827?style=for-the-badge&logo=samba&logoColor=22d3ee" alt="Samba Active Directory">
+<img src="https://img.shields.io/badge/ZimaOS-Homelab-111827?style=for-the-badge&logo=linux&logoColor=22d3ee" alt="ZimaOS">
+
+</div>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Curiosity
+## 🗄️ HOMELAB & NETWORK
 
-- Hardware
-- Mechanics
-- Physics & space
-- Self-hosting
-- The “why” behind things
+🍓 **Pi-hole** — DNS filtering  
+🪟 **Samba AD** — directory services  
+🐳 **Containers & VMs** — isolated services  
+🏠 **Self-hosting** — apps and infrastructure  
+🌐 **Networking** — DHCP, DNS & troubleshooting  
+⚙️ **Automation** — scripts and repeatable workflows
 
 </td>
 </tr>
 </table>
 
 <div align="center">
+<img width="96%" src="./assets/shaun-homelab-map-v3.jpg" alt="Shaun's homelab network map">
+</div>
 
 <img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
 
-</div>
+## 🎯 CURRENT RABBIT HOLES
 
-## Tech I work with
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,python,bash,cpp,cs,mysql&theme=dark&perline=8" alt="Technology icons">
-</p>
+### 🗄️ Homelab
 
-<p>
-  <img src="https://img.shields.io/badge/Pi--hole-DNS%20filtering-96060C?style=flat-square&logo=pihole&logoColor=white" alt="Pi-hole">
-  <img src="https://img.shields.io/badge/Samba-Active%20Directory-0A6EBD?style=flat-square&logo=samba&logoColor=white" alt="Samba">
-  <img src="https://img.shields.io/badge/Self--hosted-Services-0284C7?style=flat-square&logo=serverfault&logoColor=white" alt="Self-hosted services">
-  <img src="https://img.shields.io/badge/Networking-Experiments-0891B2?style=flat-square&logo=cisco&logoColor=white" alt="Networking">
-</p>
+✓ Self-hosting  
+✓ DNS / Network  
+✓ Active Directory  
+✓ Containers & VMs  
+✓ Automation
 
-<div align="center">
+</td>
+<td width="33%" valign="top">
 
-<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
+### 💻 Software
 
-</div>
+✓ Python  
+✓ Bash  
+✓ Systems programming  
+✓ Debugging  
+✓ Tools & scripts
 
-## Homelab, in one glance
+</td>
+<td width="33%" valign="top">
 
-```text
-Internet
-   │
-Router · DHCP · Network
-   ├── Pi-hole       DNS filtering
-   ├── Samba AD      Directory services
-   └── ZimaOS        Containers & self-hosted apps
-```
+### 🪐 Curiosity
 
-> Self-hosted · private · experimental · always evolving
+✓ Physics  
+✓ Space  
+✓ Hardware  
+✓ Mechanics  
+✓ How things work
 
-## Hardware setup
-
-<div align="center">
-
-<img width="85%" alt="Shaun's hardware setup" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef">
-
-</div>
-
-<div align="center">
+</td>
+</tr>
+</table>
 
 <img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
 
-</div>
-
-## GitHub activity
+## 🐙 GITHUB ACTIVITY
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaun9111&theme=github_dark" alt="Shaun's GitHub contribution summary">
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaun9111&theme=github_dark" alt="Shaun's GitHub contribution activity">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaun9111&hide_border=true&theme=transparent&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="Shaun's GitHub streak">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaun9111&hide_border=true&theme=transparent&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=8B949E" alt="Shaun's GitHub streak">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaun9111&theme=github_dark" alt="Shaun's GitHub stats">
 
 </div>
 
----
+<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
+
+## 💙 WHAT I'M INTO
 
 <div align="center">
 
-<img width="100%" src="./assets/shaun-neon-footer-v2.jpg" alt="Neon mountain footer">
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=22d3ee" alt="Linux">
+<img src="https://img.shields.io/badge/Homelabbing-111827?style=for-the-badge&logo=homeassistant&logoColor=22d3ee" alt="Homelabbing">
+<img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=22d3ee" alt="Networking">
+<img src="https://img.shields.io/badge/DNS%20%26%20Security-111827?style=for-the-badge&logo=cloudflare&logoColor=22d3ee" alt="DNS and Security">
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python">
+<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=22d3ee" alt="Automation">
+<img src="https://img.shields.io/badge/Mechanics-111827?style=for-the-badge&logo=framework&logoColor=22d3ee" alt="Mechanics">
+<img src="https://img.shields.io/badge/Space%20%26%20Physics-111827?style=for-the-badge&logo=nasa&logoColor=22d3ee" alt="Space and Physics">
 
-### Build it. Break it. Understand it. Improve it.
+</div>
+
+<img width="100%" src="./assets/shaun-neon-divider-slim.png" alt="">
+
+## 🖥️ HARDWARE
+
+<div align="center">
+
+<img width="88%" alt="Shaun's computer setup" src="https://github.com/user-attachments/assets/f2682f02-96e1-472a-921c-202b4b5d88ef">
+
+</div>
 
 <br>
 
+<div align="center">
+
+<img width="100%" src="./assets/shaun-neon-footer-v2.jpg" alt="Neon mountains and aurora">
+
+### `BUILD IT` · `BREAK IT` · `UNDERSTAND IT` · `IMPROVE IT`
+
 *“Whatever you do, work heartily, as for the Lord and not for men.”*  
-— Colossians 3:23 (ESV)
+**— Colossians 3:23 (ESV)**
 
 </div>
